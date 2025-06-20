@@ -43,9 +43,9 @@ Here are some of my best works:
 
 ### 📬 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/shardul-mangrulkar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://www.youtube.com/@life_incode" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube" /></a>
-  <a href="mailto:shardulmangrulkar.dev@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/shardul-mangrulkar" target="_blank"><img src="shardulMangrulkar13" /></a>
+  <a href="https://www.youtube.com/@life_incode" target="_blank"><img src="shardulMangrulkar13" /></a>
+  <a href="mailto:shardulmangrulkar.dev@gmail.com"><img src="shardulMangrulkar13" /></a>
 </p>
 
 ---
